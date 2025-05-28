@@ -162,7 +162,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
+      title: " Subscription Management System API",
       href: "https://chatcollect.com",
       dates:"",
       active: true,
