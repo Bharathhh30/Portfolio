@@ -310,7 +310,7 @@ export const DATA = {
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
+      // links: [],
     },
     {
       title: "The Convergence Challenge Hackathon",
@@ -321,7 +321,7 @@ export const DATA = {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xHkRfekjZATP8kiHS9xv1NVbCUu-zwlW1A&s",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
+      // links: [],
     },
     {
       title: "Smart Hacks",
@@ -332,7 +332,7 @@ export const DATA = {
       icon: "public",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yBXzZN-pR1tdN-YujqCq2DBD4mm1PLpuPg&s",
-      links: [],
+      // links: [],
     },
     {
       title: "Tech Hacks 3.0",
