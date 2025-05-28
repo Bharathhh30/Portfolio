@@ -187,7 +187,7 @@ export default function Page() {
                     location={project.location}
                     dates={project.dates}
                     image={project.image}
-                    links={project.links}
+                    // links={project.links}
                   />
                 </BlurFade>
               ))}
