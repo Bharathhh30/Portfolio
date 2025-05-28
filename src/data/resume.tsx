@@ -159,28 +159,12 @@ export const DATA = {
       start: "2020",
       end: "2022",
     },
-    // {
-    //   school: "Wilfrid Laurier University",
-    //   href: "https://wlu.ca",
-    //   degree: "Bachelor's Degree of Business Administration (BBA)",
-    //   logoUrl: "/laurier.png",
-    //   start: "2016",
-    //   end: "2021",
-    // },
-    // {
-    //   school: "International Baccalaureate",
-    //   href: "https://ibo.org",
-    //   degree: "IB Diploma",
-    //   logoUrl: "/ib.png",
-    //   start: "2012",
-    //   end: "2016",
-    // },
   ],
   projects: [
     {
       title: "Chat Collect",
       href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      dates:"",
       active: true,
       description:
         "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
@@ -208,7 +192,7 @@ export const DATA = {
     {
       title: "Magic UI",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "",
       active: true,
       description:
         "Designed, developed and sold animated UI components for developers.",
@@ -240,7 +224,7 @@ export const DATA = {
     {
       title: "llm.report",
       href: "https://llm.report",
-      dates: "April 2023 - September 2023",
+      dates: "",
       active: true,
       description:
         "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
@@ -273,7 +257,7 @@ export const DATA = {
     {
       title: "Automatic Chat",
       href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      dates: "",
       active: true,
       description:
         "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
