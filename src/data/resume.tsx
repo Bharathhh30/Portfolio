@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "Full Stack Developer | Cross Platform Mobile Developer | 2X National Level Hackathon Winner |",
   summary:
-    "I'm Bharath, a curious and driven developer with a passion for building across platforms. I work with the MERN stack and React Native (Expo), creating full-stack and mobile apps with real-world use cases. I've also explored AI agent development and love experimenting with emerging tech like Web3 and agentic AI. I'm all about learning fast, shipping projects, and turning ideas into impact",
+    "I'm Bharath, a curious and driven developer with a passion for building across platforms. I work with the Full stack and React Native (Expo), creating full-stack and mobile apps with real-world use cases. I've also explored AI agent development and love experimenting with emerging tech like Web3 and agentic AI. I'm all about learning fast, shipping projects, and turning ideas into impact",
   avatarUrl: "https://i.pinimg.com/736x/f3/3d/e5/f33de5f6d8580f06f5c4a36126c0c56a.jpg",
   skills: [
     "React",
