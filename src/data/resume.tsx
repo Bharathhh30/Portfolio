@@ -246,7 +246,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://res.cloudinary.com/dz6ew7haz/image/upload/v1748458634/Screenshot_2025-05-29_002548_igjrf3.png",
+      image: "https://res.cloudinary.com/dz6ew7haz/image/upload/v1751122262/ChatGPT_Image_Jun_28_2025_08_20_02_PM_qhd2xr.png",
       video: "",
     },
     {
